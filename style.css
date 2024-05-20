@@ -29,15 +29,15 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  padding: 10rem 0;
   font-family: var(--text-font-family);
-  padding: 6rem 0;
   color: var(--dark-charcoal);
   font-size: 1.4rem;
 }
 
 .container {
   background: var(--white);
-  width: 40rem;
+  width: 45rem;
   border-radius: 1rem;
   padding: 2.5rem;
 }
@@ -74,6 +74,7 @@ hr {
 
 .prep-time h3 {
   color: var(--dark-rasperry);
+  font-size: 2rem;
 }
 
 .prep-time li {
@@ -90,6 +91,7 @@ hr {
   font-family: var(--header-font-family);
   color: var(--nutmeg);
   padding-bottom: 1rem;
+  font-size: 2.5rem;
 }
 
 .ingredients ul {
@@ -114,6 +116,7 @@ hr {
 .instructions h2 {
   color: var(--nutmeg);
   font-family: var(--header-font-family);
+  font-size: 2.5rem;
 }
 .instructions ol {
   padding-top: 1rem;
@@ -140,6 +143,7 @@ hr {
 .nutrition-info h2 {
   color: var(--nutmeg);
   font-family: var(--header-font-family);
+  font-size: 2.5rem;
   padding-bottom: 1rem;
 }
 .nutrition-info p {
