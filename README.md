@@ -26,7 +26,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [GitHub repo](https://github.com/sammie-create/recipe-page-main)
-- Live Site URL: [live site URL](https://sammie-create.github.io/recipe-page-main)
+- Live Site URL: [live page](https://sammie-create.github.io/recipe-page-main)
 
 ## My process
 
